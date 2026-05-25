@@ -54,4 +54,4 @@ Open the Jupyter Notebook through Google Colab and run all cells from top to bot
 
 Colab Link:
 
-PASTE_YOUR_COLAB_LINK_HERE
+[PASTE_YOUR_COLAB_LINK_HERE](https://colab.research.google.com/github/linboxuan0715-art/final-bonus-data-analysis/blob/main/final_bonus_analysis.ipynb)
